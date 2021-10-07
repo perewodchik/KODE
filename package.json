@@ -1,0 +1,14 @@
+{
+  "name": "get-object-property",
+  "version": "1.0.0",
+  "description": "function to get object properties using specified path",
+  "main": "getObjectProperty.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "perewodchik",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
